@@ -4,7 +4,7 @@ This repository contains various machine learning models that can be applied to 
 
 **Python Packages**: *PyTorch, **Pandas*, *Sklearn*, *TensorFlow*, *Seaborn*, *Matplotlib*
 
-# Projects
+# Models
 
-### [1. Water Quality Prediction](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
+### [1. Protein-Ligand Interaction using LLM](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
 
