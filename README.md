@@ -4,7 +4,7 @@ This repository contains various machine learning models that can be applied to 
 
 **Python Packages**: *PyTorch*, *Pandas*, *Sklearn*, *TensorFlow*, *Seaborn*, *Matplotlib*
 
-![IBM SpaceX](img1.jpeg)
+<img src="img1.jpeg" alt="image1" width="200"/>
 
 
 # Models
