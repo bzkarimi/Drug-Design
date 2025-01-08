@@ -9,5 +9,5 @@ This repository contains various machine learning models that can be applied to 
 
 # Models
 
-### [1. Protein-Ligand Interaction using LLM](https://github.com/bzkarimi/ML-Projects/tree/main/water-quality)
+### [1. Protein-Ligand Interaction using LLM](https://github.com/bzkarimi/Drug-Design/tree/main/protein-ligand)
 
